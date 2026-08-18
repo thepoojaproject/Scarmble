@@ -1,0 +1,1 @@
+{"name":"scramble-word-game","version":"1.0.0","private":true,"description":"Professional Scramble Word Game for Web and Android","scripts":{"build":"mkdir -p dist && cp -r web/* dist/"},"dependencies":{"@capacitor/android":"^7.4.0","@capacitor/cli":"^7.4.0","@capacitor/core":"^7.4.0"}}
